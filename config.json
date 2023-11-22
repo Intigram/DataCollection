@@ -1,0 +1,11 @@
+{
+    "api_endpoint": "api.riotgames.com",
+    "league": "/lol/league/v4/",
+    "match": "/lol/match/v5/matches/",
+    "summoner": "/lol/summoner/v4/summoners/by-name/",
+    "api_key": "RGAPI-2fd1354e-ca06-4092-9243-df9f09d50bc6",
+    "league_regions": ["EUW1", "NA1", "KR"],
+    "match_regions": ["europe", "americas", "asia"],
+    "tiers": ["IRON", "BRONZE", "SILVER", "GOLD", "PLATINUM", "EMERALD", "DIAMOND", "MASTER", "GRANDMASTER", "CHALLENGER"],
+    "divisions": ["I", "II", "III", "IV"]
+}
